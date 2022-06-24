@@ -1,0 +1,2 @@
+sed is used to search, replace,modify and delete the content of file without opening the file.
+
