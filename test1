@@ -1,0 +1,3 @@
+git reset where we can reset the newly added changes and make HEAD point to the previous commit.
+git reset filename
+
